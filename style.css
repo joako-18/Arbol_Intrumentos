@@ -1,7 +1,6 @@
-/* General styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-image: url("/img/fondo.jpg");
     color: #333;
     margin: 0;
     padding: 0;
@@ -11,7 +10,7 @@ body {
 }
 
 h1 {
-    background-color: #4CAF50;
+    background-color: #754521;
     color: white;
     padding: 20px;
     width: 100%;
@@ -20,7 +19,7 @@ h1 {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #754521;
     margin-bottom: 10px;
 }
 
@@ -55,7 +54,7 @@ input[type="text"] {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #754521;
     color: white;
     padding: 10px 15px;
     border: none;
